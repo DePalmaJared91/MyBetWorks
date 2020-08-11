@@ -1,11 +1,73 @@
 .glyphicon.glyphicon-bitcoin{
-    color: green;
+    color: rgb(158, 255, 158);
 }
 .glyphicon.glyphicon-usd{
-    color: green;
+    color:rgb(158, 255, 158);
 }
 .glyphicon.glyphicon-credit-card{
-    color:green;
+    color:rgb(158, 255, 158);
 }
-.active {color: salmon;
+.glyphicon.glyphicon-cd{
+    color: plum;
+}
+.glyphicon.glyphicon-cloud-download{
+    color:plum;
+}
+.glyphicon.glyphicon-record{
+    color:orangered;
+}
+.glyphicon.glyphicon-cloud-upload{
+    color:orangered;
+}
+.glyphicon.glyphicon-headphones{
+    color: lightseagreen;
+}
+.glyphicon.glyphicon-thumbs-up{
+        color: lightseagreen
+}
+.glyphicon.glyphicon-music{
+    color:goldenrod;
+}
+.glyphicon.glyphicon-hourglass{
+    color:goldenrod;
+}
+.glyphicon.glyphicon-user{
+    color:hotpink;
+}
+.glyphicon.glyphicon-volume-up{
+    color:hotpink;
+}
+.glyphicon.glyphicon-log-in{
+    color: limegreen;
+}
+.glyphicon.glyphicon-log-out{
+    color:red;
+}
+.nav.navbar-nav .active a {
+    color:hotpink;
+}
+.nav.navbar-nav .active1 a {
+    color:rgb(158, 255, 158);
+}
+.nav.navbar-nav .active2 a {
+    color:plum;
+}
+.nav.navbar-nav .active3 a {
+    color:orangered;
+}
+.nav.navbar-nav .active4 a {
+    color:lightseagreen;
+}
+.nav.navbar-nav .active5 a {
+    color:goldenrod;
+}
+
+.nav.navbar-nav.navbar-right .active6 a{
+    color: hotpink;
+}
+.nav.navbar-nav.navbar-right .active7 a{
+    color: rgb(158, 255, 158);
+}
+.nav.navbar-nav.navbar-right .active8 a{
+    color:red;
 }
