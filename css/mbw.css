@@ -1,32 +1,30 @@
-@import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two');
-
+@import url("https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two");
 
 body {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 html {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
-* ===== NAVIGATION ======*/
+/* * ===== NAVIGATION ======*/  
 .navbar {
-    border: 0;
-    z-index: 9999;
-    letter-spacing: 4px;
-
+  border: 0;
+  z-index: 9999;
+  letter-spacing: 4px;
 }
 .logo {
-    display: block;
-    height: auto;
-    width: 52px;
-    padding-top: 5px;
-    margin-right: 15px;
+  display: block;
+  height: auto;
+  width: 52px;
+  padding-top: 5px;
+  margin-right: 15px;
 }
 
-.navbar-brand>img {
+.navbar-brand > img {
   height: 100%;
   padding: 15px; /* firefox bug fix */
   width: auto;
@@ -36,22 +34,24 @@ html {
 }
 
 .navbar-header h1 {
-    letter-spacing: 1px;
-    color: black !important;
-    font-family: 'Lobster Two', cursive;
+  letter-spacing: 1px;
+  color: darkslategrey !important;
+  font-family: "Lobster Two", cursive;
 }
 
-.navbar li a, .navbar {
-    color: black !important;
-    font-size: 12px;
-    transition: all 0.6s 0s;
+.navbar li a,
+.navbar {
+  color: darkslategray !important;
+  font-size: 16px;
+  transition: all 0.6s 0s;
 }
 
 .navbar-toggle {
-    background-color: transparent !important;
-    border: 0;
+  background-color: transparent !important;
+  border: 0;
 }
 
-.navbar-nav li a:hover, .navbar-nav li.active a {
-    color: red !important;
+.navbar-nav li a:hover,
+.navbar-nav li.active a {
+  color: red !important;
 }
