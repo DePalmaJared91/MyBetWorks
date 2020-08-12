@@ -72,8 +72,8 @@
     color:red;
 }
 h1 {
-    color:darkgrey;
-background-color: lightgreen;
+    color:rgb(51, 50, 50);
+background-color: rosybrown;
 border-radius: 25px;
 text-align: center;
 }
@@ -83,11 +83,12 @@ border-radius: 25px;
 text-align: center;
 } */
 h3{
-    color:rosybrown;
-    background-color: lightgreen ;
+    color:rgb(51, 50, 50);
+    background-color: rosybrown ;
     border-radius: 25px;
     text-align: center;
 }
     body{
-        background-color: seashell;
+        background-color: rgb(34, 112, 148)
+        ;
     }
