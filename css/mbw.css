@@ -71,3 +71,21 @@
 .nav.navbar-nav.navbar-right .active8 a{
     color:red;
 }
+h1 {
+    color:darkblue;
+background-color: lightgreen;
+border-radius: 25px;
+text-align: center;
+}
+/* h2 {color:darkblue;
+background-color: lightgreen;
+border-radius: 25px;
+text-align: center;
+} */
+h3{
+    color:darkblue;
+    background-color: lightgreen ;
+    border-radius: 25px;
+    text-align: center;
+}
+    
