@@ -72,7 +72,7 @@
     color:red;
 }
 h1 {
-    color:darkblue;
+    color:darkgrey;
 background-color: lightgreen;
 border-radius: 25px;
 text-align: center;
@@ -83,9 +83,11 @@ border-radius: 25px;
 text-align: center;
 } */
 h3{
-    color:darkblue;
+    color:rosybrown;
     background-color: lightgreen ;
     border-radius: 25px;
     text-align: center;
 }
-    
+    body{
+        background-color: seashell;
+    }
