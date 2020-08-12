@@ -72,8 +72,8 @@
     color:red;
 }
 h1 {
-    color:rgb(51, 50, 50);
-background-color: rosybrown;
+    color:whitesmoke;
+
 border-radius: 25px;
 text-align: center;
 }
@@ -83,12 +83,13 @@ border-radius: 25px;
 text-align: center;
 } */
 h3{
-    color:rgb(51, 50, 50);
-    background-color: rosybrown ;
+    color:whitesmoke;
+   
     border-radius: 25px;
     text-align: center;
 }
     body{
-        background-color: rgb(34, 112, 148)
-        ;
+        background-color: rgb(104, 103, 103);
+        /* background-color: rgb(192, 192, 192)
+        ; */
     }
