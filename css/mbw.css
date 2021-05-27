@@ -1,17 +1,17 @@
 .glyphicon.glyphicon-bitcoin{
-    color: green;
+    color: rgb(0,255,127);
 }
 .glyphicon.glyphicon-usd{
-    color: green;
+    color: rgb(0,255,127);
 }
 .glyphicon.glyphicon-credit-card{
-    color: green;
+    color: rgb(0,255,127);
 }
 .glyphicon.glyphicon-cd{
-    color: rgb(139,0,139);
+    color: rgb(0,255,127));
 }
 .glyphicon.glyphicon-cloud-download{
-    color: rgb(139,0,139);
+    color: rgb(0,255,127);
 }
 .glyphicon.glyphicon-record{
     color:orangered;
