@@ -47,7 +47,7 @@
     color:hotpink;
 }
 .nav.navbar-nav .active1 a {
-    color:midnightblue;
+    color:lightgreen;
 }
 .nav.navbar-nav .active2 a {
     color:plum;
@@ -90,5 +90,5 @@ h3{
     text-align: center;
 }
     body{
-        background-color:lightgreen; 
+        background-color: rgb(107,142,35); 
    }
