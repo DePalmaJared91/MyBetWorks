@@ -8,10 +8,10 @@
     color: rgb(0,255,127);
 }
 .glyphicon.glyphicon-cd{
-    color: rgb(0,255,127);
+    color:plum;
 }
 .glyphicon.glyphicon-cloud-download{
-    color: rgb(0,255,127);
+    color:plum;
 }
 .glyphicon.glyphicon-record{
     color:orangered;
@@ -47,7 +47,7 @@
     color:hotpink;
 }
 .nav.navbar-nav .active1 a {
-    color:lightgreen;
+    color: rgb(0,255,127);
 }
 .nav.navbar-nav .active2 a {
     color:plum;
