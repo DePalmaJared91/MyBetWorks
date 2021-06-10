@@ -1,4 +1,17 @@
-.glyphicon.glyphicon-bitcoin{
+ .button {   
+            border: 1px solid green;
+            border-radius: 8px;
+            width: 50%;
+            color:rgb(135,206,250);
+            transition-duration: 0.3s;
+          }
+
+ .button:hover {
+  background-color: white; /* Green */
+  color: #4CAF50;
+   }
+
+ .glyphicon.glyphicon-bitcoin{
     color: rgb(0,255,127);
 }
 .glyphicon.glyphicon-usd{
@@ -92,15 +105,3 @@ h3{
     body{
         background-color: darkslateblue; 
    }
-.button {   
-            border: 1px solid green;
-            border-radius: 8px;
-            width: 50%;
-            color:rgb(135,206,250);
-            transition-duration: 0.3s;
-            
-}
-.button:hover {
-  background-color: white; /* Green */
-  color: #4CAF50;
-}
