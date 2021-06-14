@@ -1,4 +1,7 @@
- .button {   
+ card {test-align: center;
+}
+
+.button {   
             border: 1px solid green;
             border-radius: 8px;
             width: 50%;
