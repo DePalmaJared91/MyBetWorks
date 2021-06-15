@@ -6,8 +6,8 @@
            background-color: #000000;
             text-align: center;
             border: 1px solid green;
-            border-radius: 8px;
-            width: 50%;
+            border-radius: 12 px;
+            width: 25%;
             color:rgb(135,206,250);
             transition-duration: 0.3s;
           }
